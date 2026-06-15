@@ -167,12 +167,12 @@ footer{
 
 </div>
 
-<a class="whatsapp" href="https://wa.me/234XXXXXXXXXX" target="_blank">
+<a class="whatsapp" href="https://wa.me/234" target="_blank">
 Chat Us 💬
 </a>
 
 <footer>
-© 2026 Goodwill Academy | Built with love 💙
+© 2026 Goodwill Academy | THE FUTURE IS ME 
 </footer>
 
 </body>
